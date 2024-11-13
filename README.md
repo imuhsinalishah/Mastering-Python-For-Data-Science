@@ -1,1 +1,1 @@
-# Mastering-Python-For-Data-Science
+# Mastering Python For Data Science

@@ -1,0 +1,141 @@
+Mastering Python for Data Science & Machine Learning
+
+Course Notes Created By Muhsin Ali Shah
+Course Overview: Python for Data Science & Machine Learning
+Learn Python Basics & Data Science Tools
+This course is designed for beginners looking to understand Python programming and data science fundamentals. No prior knowledge of data science is required, though basic Python knowledge is helpful.
+
+Key Topics Covered:
+
+Python programming basics
+Mathematical concepts for data science
+Key Python libraries (NumPy, SciPy, etc.)
+Introduction to machine learning
+Practical hands-on coding experience
+Setting up Python environments (Jupyter, PyCharm)
+
+Who Should Take This Course?
+Beginners interested in Data Science
+Students wanting to improve Python skills
+Anyone looking to learn Python for data analysis
+Why Choose This Course?
+
+
+
+
+## what is data science ?
+study of data science > recording , storing & analyzing
+Data Transformation > Extracting the right information, Gaining insights and useful clues to run efficiently a project, predicting certain outcomes
+
+
+Where data science is used ?
+Online businesses > Product recommendation, Better marketing, Better product Quality Healthcare > Virtual assistant, Medical search improvement, Image analysis,
+Banking > Fraud detection, Credit scores, Offering the right product for customers
+Transport > GPS Optimization, Self driving cars, Personalized Virtual assistant Manufacturing >  Automation, Problem detection, Problem prevention,
+Finance > Algo trading, Strategy creation, Risk analysis
+
+
+Data scientist:
+Basic Skill sets to have:
+Good logical thinking and mathematics understanding
+Understanding of the business world around us
+Interest in Technologies and programming
+ 
+Data science jobs:
+Data Analyst 
+Data base administrator 
+Business analyst
+
+The Basics of DATA
+Step 1: Identification of the problematic 
+Step 2: Finding a way to collect/acquire data 
+Step 3: Data transformation 
+Step 4: Understanding the Data 
+Step 5: Modelling 
+Step 6: Launching the solution
+
+
+## Basic Statistics Knowledge:
+ 
+What is Data? Facts, Graphs, Observations, measurement, numbers, information ,quantities
+Types Of Data :
+Categorical or Qualitative Data > Nominal data & ordinal Data
+Numerical or Quantitative Data > Discreate data & Continuous Data
+
+Qualitative/categorical Data
+Categorical > Nominal i.e. Pen Pencil Eraser Cow Dog Cat
+Ordinal>  Excellent Good  Fantastic Okay 
+Numerical or Quantitative Data
+Discrete vs Continuous data Are graphs 
+
+# What is Statistics :
+Data Such as of Stock market , life sciences, weather, retail, insurance, education
+Why statistics are useful in Data Science:
+Give a basic understanding of different analyzing methods
+Allow Data scientists to use many measure such as the median, the mean, the standard deviation and more.
+Population VS Sample:
+Population > The entire group that you want to study 
+Sample > A specific group that will be used to collect Data (part of the population).
+
+Types Of probability:
+Probability Sampling Methods
+1. Simple Random Sampling: Every individual has an equal chance of selection, ensuring a representative sample.
+2. Systematic Sampling: Selects individuals at regular intervals from a list, starting at a random point.
+3. Stratified Sampling: Divides the population into subgroups (strata) and samples from each, ensuring representation across groups.
+
+Non-Probability Sampling Methods
+1. Convenience Sampling: Selects individuals based on ease of access, often leading to bias.
+2. Purposive (Judgmental) Sampling: Selects individuals based on specific characteristics or expertise.
+3. Snowball Sampling: Participants recruit other participants, useful for hard-to-reach populations.
+
+# Statistical Math Functions:
+Median > The Middle number in a data set is known as median i.e. 1234567 so 4 is a median in this set.
+Mode  > The number that appears the most in a data set i.e. 1233456353896 so 3 is a mode
+Mean  > the average of the data set of a numbers we are working with i.e.  adding up all the numbers then dividing by the size of the data. 
+Range > The difference between the Max and the Min in a Data set. It allows us to know what is the spread in the Data Example: 2 6 7 8 9 10 12 . Max 12 - Min 2, Range = 10
+Quartiles > are values that divide a data set into four equal parts, with each part representing a quarter (25%) of the data.
+standard deviation > is a measure of how spread out the numbers in a data set are. It tells us how much the values typically differ from the mean (average). i.e. Consider the data set:
+Variance >  is a measure of how much the values in a data set spread out from the mean (average). It’s calculated as the average of the squared differences between each value and the mean.
+decision tree > is a supervised machine learning model that is used for both classification and regression tasks.
+Entropy > is a concept from information theory that measures the impurity or randomness in a dataset.
+Information Gain > is a metric used in decision trees to decide which feature to split on at each step of building the tree.
+
+Probabilities: 
+The measure of likelihood that an event will occur in a random Experiment.
+ Used in: Games of chance, Weather prediction, Finances, Mathematics, Any type of prevision.
+
+Type of Events:
+Disjoint Event: If two events cannot both happen at the same time. 
+Example: The probability that we get one and two simultaneously by rolling one dice.
+Non-Disjoint Events: The Two events can have a common outcome. 
+Example: Rolling a pair of Dices and having identical numbers.
+
+Type of probabilities: 
+Marginal Probability > The probability of an event occurring no matter any other variable. 
+Example: The probability of drawing a black card in a deck of cards 
+Conditional Probability > The probability of an event occurring when another event has occurred.
+Example: Drew a king in a deck of card and that the king is red. 
+Joint Probability > Probability that two event occur at the same time. 
+Example: Probability of you drew a 1 and a heart in a deck of cards.
+
+Probability distribution It's a Function that describes the likelihood of obtaining a possible value that a random variable can assume based on different criteria. 
+Examples: Normal distribution, Binominal distribution, Poisson Distribution, Hyper geometric Distribution, Many others.
+
+## Python
+NumPy > (Numerical Python) is a powerful Python library used for numerical and scientific computing.
+Advantages of Using NumPy:
+Speed: NumPy operations are faster than standard Python lists due to its C-based backend.
+Efficiency: Memory consumption is lower with NumPy arrays than Python lists.
+Extensibility: Supports various scientific and mathematical operations, making it essential for data science and machine learning tasks.
+Array oriented computing.
+Efficient Multi-dimensional array implementation. 
+Created for Scientific computation. 
+Faster resolution of operations on entire arrays of Data without writing loops with use of Standardized Mathematical functions. 
+Different tools that allow Reading on Array Data on Disk, Writing Array Data on Disk, Working with different memory mapped files. 
+Integration of Fourier transform capabilities.
+Linear Algebra and random number generation.
+Why using NumPy:
+Consume less memory
+Has an execution speed that is faster than Python list 
+Simply convenient to use.
+
